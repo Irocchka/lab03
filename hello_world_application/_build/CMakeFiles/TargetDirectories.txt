@@ -1,0 +1,5 @@
+/home/irochka/Irocchka/workspace/projects/lab03/homework/hello_world_application/_build/CMakeFiles/rebuild_cache.dir
+/home/irochka/Irocchka/workspace/projects/lab03/homework/hello_world_application/_build/CMakeFiles/edit_cache.dir
+/home/irochka/Irocchka/workspace/projects/lab03/homework/hello_world_application/_build/CMakeFiles/hello_world.dir
+/home/irochka/Irocchka/workspace/projects/lab03/homework/hello_world_application/_build/CMakeFiles/formatter_ex.dir
+/home/irochka/Irocchka/workspace/projects/lab03/homework/hello_world_application/_build/CMakeFiles/formatter.dir
